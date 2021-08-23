@@ -20,5 +20,6 @@ namespace Fact
             Console.WriteLine("Factorial of " +n +": "+f);
             Console.ReadLine();
         }
+        
     }
 }
