@@ -1,0 +1,7 @@
+C:\Users\trish\source\repos\Firstprgm\Firstprgm\bin\Debug\Firstprgm.exe.config
+C:\Users\trish\source\repos\Firstprgm\Firstprgm\bin\Debug\Firstprgm.exe
+C:\Users\trish\source\repos\Firstprgm\Firstprgm\bin\Debug\Firstprgm.pdb
+C:\Users\trish\source\repos\Firstprgm\Firstprgm\obj\Debug\Firstprgm.csproj.AssemblyReference.cache
+C:\Users\trish\source\repos\Firstprgm\Firstprgm\obj\Debug\Firstprgm.csproj.CoreCompileInputs.cache
+C:\Users\trish\source\repos\Firstprgm\Firstprgm\obj\Debug\Firstprgm.exe
+C:\Users\trish\source\repos\Firstprgm\Firstprgm\obj\Debug\Firstprgm.pdb
